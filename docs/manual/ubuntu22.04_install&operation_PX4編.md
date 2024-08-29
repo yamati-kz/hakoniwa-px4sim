@@ -194,7 +194,7 @@ export PYTHONPATH=/usr/local/lib/hakoniwa/py:${PYTHONPATH}
 DroneAppLinux.zipを入手します。入手後、解凍します。解凍は、`hakoniwa-unity-drone-model`のディレクトリ配下に解凍してください。
 
 ``` bash
-$ ~/work/hakoniwa-unity-drone-model
+$ cd ~/work/hakoniwa-unity-drone-model
 $ unzip ~/Downlods/DroneAppLinux.zip
 ```
 
@@ -207,7 +207,7 @@ $ unzip ~/Downlods/DroneAppLinux.zip
 箱庭ドローンシミュレータ用の機体に合わせた設定に変更します。以下の手順にて機体情報を書き換えてください。
 
 ```bash
-$ ~/work/hakoniwa-px4sim/px4
+$ cd ~/work/hakoniwa-px4sim/px4
 $ cp hakoniwa-apps/10016_none_iris PX4-Autopilot/ROMFS/px4fmu_common/init.d-posix/airframes/10016_none_iris 
 $ cp hakoniwa-apps/rcS PX4-Autopilot/ROMFS/px4fmu_common/init.d-posix/rcS
 ```
@@ -304,7 +304,7 @@ $ bash run.bash
 箱庭ドローンシミュレータのビジュアライズするUnityアプリを起動します。
 
 ``` bash
-$ ~/work/hakoniwa-unity-drone-model
+$ cd ~/work/hakoniwa-unity-drone-model
 $ bash ./plugin/activate_app.bash DroneAppLinux
 ```
 
