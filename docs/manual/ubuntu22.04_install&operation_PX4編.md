@@ -9,7 +9,7 @@
     <div style="font-size:12pt;font-weight:bold;text-align:center;margin-top:500px"><span class="author">ドローンWG</span></div>
     </p>
     <p>
-    <div style="font-size:12pt;font-weight:bold;text-align:center;margin-top:10px"><span class="date">2024年08月16日</span></div>
+    <div style="font-size:12pt;font-weight:bold;text-align:center;margin-top:10px"><span class="date">2024年08月29日</span></div>
     </p>
 </div>
 
@@ -36,6 +36,7 @@
 |1|2024/08/09|0.1|新規|新規作成|
 |2|2024/08/14|0.2|追加|ログリプレイ機能の操作方法を追加|
 |3|2024/08/16|0.3|追加|PC環境の推奨環境を追加|
+|4|2024/08/29|0.4|追加|Change directory追加等|
 ||||||
 
 <!-- 改ページ -->
