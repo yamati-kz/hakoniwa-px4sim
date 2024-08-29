@@ -160,6 +160,7 @@ cmake-build/src/hako-px4sim
 箱庭ドローンシミュレータの動作確認のためにPython用のAPIライブラリをインストールします。
 
 ```bash
+$ cd ..
 $ bash drone_api/install.bash
 ```
 
