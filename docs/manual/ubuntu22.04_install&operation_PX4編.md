@@ -278,7 +278,7 @@ $ ./QGroundControl.AppImage
 ドローンフライトコントローラのPX4ファームウェアを起動します。
 
 ```bash
-$ cd ~/work/hakoniwa-px4sim/hakoniwa/px4/PX4-Autopilot
+$ cd ~/work/hakoniwa-px4sim/px4/PX4-Autopilot
 $ bash ../sim/simstart.bash
 ```
 
