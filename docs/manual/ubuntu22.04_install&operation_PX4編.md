@@ -91,7 +91,7 @@ $ sudo apt upgrade
 
 ``` bash
 $ sudo apt install gcc g++ make cmake
-$ sudo apt install git jq libgtest-dev net-tools
+$ sudo apt install git jq libgtest-dev net-tools python3-dev
 ```
 
 ### 1.2.3. gitの設定
