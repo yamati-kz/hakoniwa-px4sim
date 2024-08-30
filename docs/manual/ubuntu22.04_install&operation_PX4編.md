@@ -151,8 +151,8 @@ $ git clone --recursive https://github.com/toppers/hakoniwa-unity-drone-model.gi
 - 該当ディレクトリに移動
 
 ```bash
-$ cd ~/work/hakoniwa-px4sim/hakoniwa
-$ cd ../hakoniwa/third-party/hakoniwa-core-cpp-client
+$ cd ~/work/hakoniwa-px4sim
+$ cd hakoniwa/third-party/hakoniwa-core-cpp-client
 ```
 
 - ビルド手順
